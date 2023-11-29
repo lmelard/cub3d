@@ -30,6 +30,21 @@ Ray-casting is a technique that transform a limited form of data (a very simplif
     - Fluid window management.
     - Customizable textures and colors for game elements.
     - Interactive controls for in-game navigation.
+
+# 🧱 Building and Running the Game
+
+## Requirements:
+
+- GCC Compiler
+- miniLibX Library
+- A Linux/Unix environment
+
+## Makefile Commands:
+
+- `make`: Compiles the program.
+- `make clean`: Removes object files.
+- `make fclean`: Cleans all compiled files.
+- `make re`: Re-compiles the program.
   
 # 📚 Resources
 - [Pikuma's course: Raycasting Engine Programming](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
