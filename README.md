@@ -11,7 +11,7 @@ Cub3D is a homage to the 90's first-person shooter games, particularly inspired 
 - Run the program using the command: ```./cub3D <map_file.cub>```
 
 # 💡 Key Learnings: Raycasting Explained
-Raycasting in Cub3D is a pivotal technique for rendering the 3D environment:
+Ray-casting is a technique that transform a limited form of data (a very simplified map or floor plan) into a 3D projection by tracing rays from the view point into the viewing volume
 
 - Principle: For each column of the screen, a ray is cast from the player's view. The direction of each ray depends on the player's position and the column's x-coordinate.
 - Wall Detection: The ray moves forward until it hits a wall. The distance to this hit determines how high the wall appears on the screen.
