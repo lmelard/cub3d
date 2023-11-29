@@ -45,7 +45,11 @@ Ray-casting is a technique that transform a limited form of data (a very simplif
     - Fluid window management.
     - Customizable textures and colors for game elements.
     - Interactive controls for in-game navigation.
- 
+  
+# 📚 Resources
+- [Pikuma's course: Raycasting Engine Programming](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
+- [Lode's Raycasting Tutorial](https://lodev.org/cgtutor/raycasting.html)
+
 # 👥 Contribution and Development
 This project is a collaborative effort :
 
@@ -53,7 +57,3 @@ This project is a collaborative effort :
 <a href="http://github.com/lmelard" alt="lmelard github profile"><img src="https://github.com/lmelard.png" width="60px style="border-radius:50%"/></a>
 <a href="http://github.com/tiny-chris" alt="tiny-chris github profile"><img src="https://github.com/tiny-chris.png" width="60px style="border-radius:50%"/></a>
 </p>
-  
-# 📚 Resources
-- [Pikuma's course: Raycasting Engine Programming](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
-- [Lode's Raycasting Tutorial](https://lodev.org/cgtutor/raycasting.html)
