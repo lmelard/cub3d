@@ -18,6 +18,10 @@ Ray-casting is a technique that transform a limited form of data (a very simplif
 - Side Determination: The texture of the wall varies based on the side the ray hits, creating a realistic 3D environment.
 - Efficiency: The algorithm efficiently calculates the distance to walls and renders only what's visible to the player, optimizing performance.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Simple_raycasting_with_fisheye_correction.gif" alt="raycasting"/>
+</p>
+  
 # 📚 Resources
 - [Pikuma's course: Raycasting Engine Programming](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
 - [Lode's Raycasting Tutorial](https://lodev.org/cgtutor/raycasting.html)
