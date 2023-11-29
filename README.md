@@ -21,6 +21,15 @@ Ray-casting is a technique that transform a limited form of data (a very simplif
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Simple_raycasting_with_fisheye_correction.gif" alt="raycasting"/>
 </p>
+
+# 🛠 Technical Specifications
+- Tech stack: C
+- Graphics: miniLibX library
+- Features:
+    - Ray-casting for 3D rendering.
+    - Fluid window management.
+    - Customizable textures and colors for game elements.
+    - Interactive controls for in-game navigation.
   
 # 📚 Resources
 - [Pikuma's course: Raycasting Engine Programming](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
