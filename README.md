@@ -4,10 +4,25 @@
 
 Cub3D is a homage to the 90's first-person shooter games, particularly inspired by the iconic "Wolfenstein 3D." This project is not just about gaming nostalgia but also an exploration into the world of ray-casting technology. Experience a dynamic view within a maze, where you navigate to find your way out, mimicking the classic FPS gameplay.
 
-# 🚀 Get Started
+# 🧱 Building and Running the Game
 
+## Requirements:
+
+- GCC Compiler
+- miniLibX Library
+- A Linux/Unix environment
+
+## Makefile Commands:
+
+- `make`: Compiles the program.
+- `make clean`: Removes object files.
+- `make fclean`: Cleans all compiled files.
+- `make re`: Re-compiles the program.
+
+## Get Started
 - Clone the repository.
 - Navigate to the project directory.
+- Compile with `make`
 - Run the program using the command: ```./cub3D <map_file.cub>```
 
 # 💡 Key Learnings: Raycasting Explained
