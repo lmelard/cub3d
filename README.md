@@ -22,8 +22,10 @@ Cub3D is a tribute to the iconic 90's first-person shooter game "Wolfenstein 3D.
 ## Get Started
 - Clone the repository.
 - Navigate to the project directory.
-- Compile with `make`
-- Run the program using the command: ```./cub3D <map_file.cub>```
+```
+make
+./cub3D <map_file.cub>
+```
 
 The map must be composed of only 6 possible characters: 0 for an empty space,
 1 for a wall, and N,S,E or W for the player’s start position and spawning
