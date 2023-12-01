@@ -2,7 +2,8 @@
 
 # Project Overview
 
-Cub3D is a tribute to the iconic 90's first-person shooter game "Wolfenstein 3D." This project is not just about gaming nostalgia but also an exploration into the world of ray-casting technology. 
+Cub3D is a tribute to the iconic 90's first-person shooter game "Wolfenstein 3D." It's purpose was to recreate our own version of the game in C language exploring the world of ray-casting technology. 
+
 # 🧱 Building and Running the Game
 
 ## Requirements:
